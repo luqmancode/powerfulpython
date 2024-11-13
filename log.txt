@@ -1,0 +1,362 @@
+Log level: WARNING, msg: Look Out!
+Log level: ERROR, msg: Here is the error!
+Log level: INFO, msg: This is informative
+Log level: WARNING, msg: This is a warning message
+Log level: ERROR, msg: Oh no, something went wrong
+Log level: CRITICAL, msg: We have a big problem
+Log level: INFO, msg: This is informative.
+Log level: ERROR, msg: Uh oh. Something went wrong.
+Log level: INFO, msg: This is informative
+Log level: WARNING, msg: This is a warning message
+Log level: ERROR, msg: Oh, something went wrong
+Log level: CRITICAL, msg: We have a big problem
+Log level: INFO, msg: Results: This is info
+Log level: CRITICAL, msg: Results: We have problem in lines of code
+Log level: ERROR, msg: oops
+WARNING:root:Look Out!
+ERROR:root:Here is the error!
+INFO:root:This is informative
+WARNING:root:This is a warning message
+ERROR:root:Oh no, something went wrong
+CRITICAL:root:We have a big problem
+INFO:root:This is informative.
+ERROR:root:Uh oh. Something went wrong.
+INFO:root:This is informative
+WARNING:root:This is a warning message
+ERROR:root:Oh, something went wrong
+CRITICAL:root:We have a big problem
+INFO:root:Results: This is info
+CRITICAL:root:Results: We have problem in lines of code
+ERROR:root:oops
+Log level: WARNING, msg: Look Out!
+Log level: ERROR, msg: Here is the error!
+Log level: INFO, msg: This is informative
+Log level: WARNING, msg: This is a warning message
+Log level: ERROR, msg: Oh no, something went wrong
+Log level: CRITICAL, msg: We have a big problem
+Log level: INFO, msg: This is informative.
+Log level: ERROR, msg: Uh oh. Something went wrong.
+Log level: INFO, msg: This is informative
+Log level: WARNING, msg: This is a warning message
+Log level: ERROR, msg: Oh, something went wrong
+Log level: CRITICAL, msg: We have a big problem
+Log level: INFO, msg: Results: This is info
+Log level: CRITICAL, msg: Results: We have problem in lines of code
+Log level: ERROR, msg: oops
+2024-11-13 08:34:43,561 Log level: WARNING, msg: Look Out!
+2024-11-13 08:34:43,562 Log level: ERROR, msg: Here is the error!
+2024-11-13 08:34:43,562 Log level: INFO, msg: This is informative
+2024-11-13 08:34:43,562 Log level: WARNING, msg: This is a warning message
+2024-11-13 08:34:43,562 Log level: ERROR, msg: Oh no, something went wrong
+2024-11-13 08:34:43,562 Log level: CRITICAL, msg: We have a big problem
+2024-11-13 08:34:43,562 Log level: INFO, msg: This is informative.
+2024-11-13 08:34:43,562 Log level: ERROR, msg: Uh oh. Something went wrong.
+2024-11-13 08:34:43,562 Log level: INFO, msg: This is informative
+2024-11-13 08:34:43,562 Log level: WARNING, msg: This is a warning message
+2024-11-13 08:34:43,563 Log level: ERROR, msg: Oh, something went wrong
+2024-11-13 08:34:43,563 Log level: CRITICAL, msg: We have a big problem
+2024-11-13 08:34:43,563 Log level: INFO, msg: Results: This is info
+2024-11-13 08:34:43,563 Log level: CRITICAL, msg: Results: We have problem in lines of code
+2024-11-13 08:34:43,563 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:36:17,795 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:36:17,795 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:36:17,795 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:36:17,795 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:36:17,795 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:36:17,795 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:36:17,795 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:36:17,795 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:36:17,795 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:36:17,795 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:36:17,795 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:36:17,796 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:36:17,796 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:36:17,796 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:36:17,796 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:39:07,039 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:39:07,039 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:39:07,039 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:39:07,039 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:39:07,040 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:39:07,040 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:39:07,040 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:39:07,040 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:39:07,040 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:39:07,040 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:39:07,040 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:39:07,040 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:39:07,041 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:39:07,041 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:39:07,041 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:39:26,851 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:39:26,851 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:39:26,851 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:39:26,851 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:39:26,851 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:39:26,851 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:39:26,851 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:39:26,851 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:39:26,852 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:39:26,852 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:39:26,852 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:39:26,852 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:39:26,852 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:39:26,852 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:39:26,852 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 08:39:26,852 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:52:27,948 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:52:27,948 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:52:27,948 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:52:27,948 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:52:27,949 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:52:27,949 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:52:27,949 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:52:27,949 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:52:27,949 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:52:27,949 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:52:27,950 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:52:27,950 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:52:27,950 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:52:27,950 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:52:27,950 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 08:52:27,950 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:52:42,787 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:52:42,787 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:52:42,787 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:52:42,788 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:52:42,788 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:52:42,788 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:52:42,788 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:52:42,788 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:52:42,788 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:52:42,788 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:52:42,788 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:52:42,789 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:52:42,789 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:52:42,789 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:52:42,789 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 08:52:42,789 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:53:00,283 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:53:00,283 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:53:00,283 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:53:00,283 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:53:00,283 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:53:00,283 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:53:00,283 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:53:00,284 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:53:00,284 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:53:00,284 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:53:00,284 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:53:00,284 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:53:00,284 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:53:00,284 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:53:00,284 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 08:53:00,285 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 08:53:11,427 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 08:53:11,427 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 08:53:11,428 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 08:53:11,428 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 08:53:11,428 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 08:53:11,428 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 08:53:11,428 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 08:53:11,428 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 08:53:11,428 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 08:53:11,428 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 08:53:11,428 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 08:53:11,429 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:53:11,429 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 08:53:11,429 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 08:53:11,429 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 08:53:11,429 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 08:53:11,429 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:48:16,377 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:48:16,378 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:48:16,379 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:48:16,379 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:48:16,379 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:48:16,380 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:48:16,380 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:48:16,380 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:48:16,380 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:48:16,381 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:48:16,381 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:48:16,381 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:48:16,381 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:48:16,381 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:48:16,383 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:48:16,383 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:48:16,383 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:48:40,378 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:48:40,378 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:48:40,378 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:48:40,379 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:48:40,379 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:48:40,379 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:48:40,379 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:48:40,379 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:48:40,380 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:48:40,380 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:48:40,380 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:48:40,380 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:48:40,380 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:48:40,381 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:48:40,381 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:48:40,381 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:48:40,381 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:49:01,831 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:49:01,833 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:49:01,833 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:49:01,834 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:49:01,834 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:49:01,834 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:49:01,834 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:49:01,834 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:49:01,834 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:49:01,835 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:49:01,835 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:49:01,835 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:49:01,835 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:49:01,835 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:49:01,835 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:49:01,836 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:49:01,836 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:49:56,657 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:49:56,657 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:49:56,657 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:49:56,657 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:49:56,657 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:49:56,657 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:49:56,657 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:49:56,657 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:49:56,658 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:49:56,658 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:49:56,658 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:49:56,658 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:49:56,658 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:49:56,658 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:49:56,658 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:49:56,658 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:49:56,658 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:50:18,159 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:50:18,163 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:50:18,164 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:50:18,164 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:50:18,164 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:50:18,166 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:50:18,167 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:50:18,167 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:50:18,167 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:50:18,167 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:50:18,167 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:50:18,167 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:50:18,167 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:50:18,167 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:50:18,167 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:50:18,167 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:50:18,167 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:51:09,064 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:51:09,064 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:51:09,064 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:51:09,064 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:51:09,065 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:51:09,065 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:51:09,065 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:51:09,065 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:51:09,065 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:51:09,065 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:51:09,065 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:51:09,065 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:51:09,065 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:51:09,065 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:51:09,065 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:51:09,065 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:51:09,065 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:51:58,924 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:51:58,924 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:51:58,924 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:51:58,925 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:51:58,925 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:51:58,925 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:51:58,925 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:51:58,925 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:51:58,925 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:51:58,925 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:51:58,925 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:51:58,925 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:51:58,925 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:51:58,926 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:51:58,926 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:51:58,926 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:51:58,926 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:52:05,389 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:52:05,389 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:52:05,389 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:52:05,389 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:52:05,390 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:52:05,390 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:52:05,390 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:52:05,390 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:52:05,390 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:52:05,390 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:52:05,390 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:52:05,390 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:52:05,390 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:52:05,391 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:52:05,391 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:52:05,391 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:52:05,391 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:53:22,150 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:53:22,150 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:53:22,151 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:53:22,151 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:53:22,151 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:53:22,151 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:53:22,151 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:53:22,151 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:53:22,151 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:53:22,151 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:53:22,151 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:53:22,152 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:53:22,152 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:53:22,152 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:53:22,152 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:53:22,152 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:53:22,152 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 11:53:38,915 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 11:53:38,916 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 11:53:38,916 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 11:53:38,916 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 11:53:38,916 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 11:53:38,916 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 11:53:38,916 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 11:53:38,916 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 11:53:38,916 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 11:53:38,916 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 11:53:38,916 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 11:53:38,917 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:53:38,917 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 11:53:38,917 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 11:53:38,917 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 11:53:38,917 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 11:53:38,917 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 6 2024-11-13 12:13:51,342 Log level: WARNING, msg: Look Out!
+/workspaces/powerfulpython/logging_modules.py <module> 7 2024-11-13 12:13:51,342 Log level: ERROR, msg: Here is the error!
+/workspaces/powerfulpython/logging_modules.py <module> 10 2024-11-13 12:13:51,343 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 11 2024-11-13 12:13:51,343 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 12 2024-11-13 12:13:51,343 Log level: ERROR, msg: Oh no, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 13 2024-11-13 12:13:51,343 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py <module> 17 2024-11-13 12:13:51,343 Log level: INFO, msg: This is informative.
+/workspaces/powerfulpython/logging_modules.py <module> 18 2024-11-13 12:13:51,343 Log level: ERROR, msg: Uh oh. Something went wrong.
+/workspaces/powerfulpython/logging_modules.py <module> 22 2024-11-13 12:13:51,344 Log level: INFO, msg: This is informative
+/workspaces/powerfulpython/logging_modules.py <module> 23 2024-11-13 12:13:51,344 Log level: WARNING, msg: This is a warning message
+/workspaces/powerfulpython/logging_modules.py <module> 24 2024-11-13 12:13:51,344 Log level: ERROR, msg: Oh, something went wrong
+/workspaces/powerfulpython/logging_modules.py <module> 25 2024-11-13 12:13:51,344 Log level: CRITICAL, msg: We have a big problem
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 12:13:51,344 Log level: INFO, msg: Results: This is info
+/workspaces/powerfulpython/logging_modules.py log_results 29 2024-11-13 12:13:51,345 Log level: CRITICAL, msg: Results: We have problem in lines of code
+/workspaces/powerfulpython/logging_modules.py <module> 36 2024-11-13 12:13:51,345 Log level: ERROR, msg: oops
+/workspaces/powerfulpython/logging_modules.py <module> 43 2024-11-13 12:13:51,345 Log level: INFO, msg: I ate 14 of oranges during workout
+/workspaces/powerfulpython/logging_modules.py <module> 47 2024-11-13 12:13:51,345 Log level: WARNING, msg: I ate total of 6 Apple. Thanks
+/workspaces/powerfulpython/logging_modules.py <module> 57 2024-11-13 12:13:51,350 Log level: INFO, msg: This is informational
+/workspaces/powerfulpython/logging_modules.py <module> 58 2024-11-13 12:13:51,350 Log level: WARNING, msg: This is warning
+/workspaces/powerfulpython/logging_modules.py <module> 59 2024-11-13 12:13:51,350 Log level: ERROR, msg: This is error
+/workspaces/powerfulpython/logging_modules.py <module> 60 2024-11-13 12:13:51,350 Log level: CRITICAL, msg: This is critical
